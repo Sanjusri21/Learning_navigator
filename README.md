@@ -196,22 +196,22 @@ These features significantly improve the user experience and support the applica
 
 ---
 # Testing & Quality Assurance
-# Functional Testing
+## Functional Testing
 * Verified learning paths and roadmap functionality
 * Tested progress tracking and resource access
 * Verified event registration flow
-# UI/UX Testing
+## UI/UX Testing
 * Responsive layout testing
 * Consistent design verification
 * User interaction testing
-# Navigation Testing
+## Navigation Testing
 * Verified smooth screen transitions
 * Tested bottom navigation routing
-# Form Validation Testing
+## Form Validation Testing
 * Empty field validation
 * Email validation
 # Input restriction testing
-# User Testing
+## User Testing
 * Tested with beginner learners
 * Collected usability feedback
 * Improved navigation and accessibility
