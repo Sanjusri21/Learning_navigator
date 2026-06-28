@@ -195,6 +195,67 @@ The latest version of Learning Navigator provides a complete learning ecosystem 
 These features significantly improve the user experience and support the application's goal of delivering a guided, interactive, and organized learning platform.
 
 ---
+# Testing & Quality Assurance
+# Functional Testing
+* Verified learning paths and roadmap functionality
+* Tested progress tracking and resource access
+* Verified event registration flow
+# UI/UX Testing
+* Responsive layout testing
+* Consistent design verification
+* User interaction testing
+# Navigation Testing
+* Verified smooth screen transitions
+* Tested bottom navigation routing
+# Form Validation Testing
+* Empty field validation
+* Email validation
+# Input restriction testing
+# User Testing
+* Tested with beginner learners
+* Collected usability feedback
+* Improved navigation and accessibility
+
+# 🐞 Issues Found & Fixes Applied
+
+| Issues Found | Fixes Applied |
+|--------------|----------------|
+| Navigation issues between screens | Implemented proper Bottom Navigation and routing system |
+| Duplicate `samplePaths` import conflicts | Centralized data into a single `local_data.dart` file |
+| `ProfileScreen` missing required parameters | Added `userName` and `userEmail` constructor arguments |
+| Progress screen navigation errors | Corrected navigation indexing and screen routing |
+| UI overflow on smaller devices | Added responsive layouts and flexible widgets |
+| Unused imports and warnings | Removed unnecessary imports and cleaned project structure |
+| Resource links not opening | Integrated `url_launcher` package correctly |
+| Form submission without validation | Added input validation for all forms |
+| State update issues in roadmap completion | Implemented proper `setState()` updates |
+| Profile image upload inconsistencies | Added gallery and camera support using `image_picker` |
+| Bottom navigation rebuilding screens repeatedly | Implemented optimized navigation structure |
+| Incorrect widget parameter usage | Fixed widget syntax and named parameter errors |
+| Progress bar rendering issues | Corrected `LinearProgressIndicator` implementation |
+| Dark mode UI inconsistencies | Improved conditional theme handling |
+| Route transition issues | Implemented proper `Navigator.pushReplacement()` handling |
+| Learning history screen not displaying data | Connected learning history with shared local data source |
+| Firebase configuration issues | Configured Firebase initialization and dependencies properly |
+| Card shadow and styling inconsistencies | Improved UI design using proper `BoxShadow` configuration |
+| Event registration flow issues | Added proper navigation and form handling |
+| Null safety warnings | Updated codebase to follow Dart null safety standards |
+
+---
+
+# Project Goals
+
+* Simplify learning for beginners
+* Provide structured learning guidance
+* Improve learning consistency
+* Bridge the gap between learning and employability
+* Support interview preparation and career readiness
+  
+# Target Users
+Beginners exploring new career paths
+Students in virtual learning environments
+Self-taught learners
+Individuals preparing for tech interviews
 
 # Future Enhancements
 
