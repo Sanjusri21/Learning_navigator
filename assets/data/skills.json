@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "title": "HTML5",
+      "category": "Web Development",
+      "level": "Beginner",
+      "duration": "2 Weeks",
+      "description": "Learn the structure and semantics of web pages using HTML5 elements."
+    },
+    {
+      "title": "CSS3",
+      "category": "Web Development",
+      "level": "Beginner",
+      "duration": "2 Weeks",
+      "description": "Style web pages with CSS3 including flexbox, grid, and animations."
+    },
+    {
+      "title": "JavaScript",
+      "category": "Web Development",
+      "level": "Intermediate",
+      "duration": "4 Weeks",
+      "description": "Build interactive web apps using JavaScript ES6+ features."
+    },
+    {
+      "title": "Python",
+      "category": "Data Science",
+      "level": "Beginner",
+      "duration": "3 Weeks",
+      "description": "Learn Python programming fundamentals for data science and AI."
+    },
+    {
+      "title": "Flutter",
+      "category": "Mobile Development",
+      "level": "Intermediate",
+      "duration": "4 Weeks",
+      "description": "Build cross-platform mobile apps using Flutter framework."
+    },
+    {
+      "title": "Dart",
+      "category": "Mobile Development",
+      "level": "Beginner",
+      "duration": "2 Weeks",
+      "description": "Learn Dart language fundamentals for Flutter development."
+    },
+    {
+      "title": "SQL",
+      "category": "Data Science",
+      "level": "Beginner",
+      "duration": "3 Weeks",
+      "description": "Query and manage databases using SQL."
+    },
+    {
+      "title": "TensorFlow",
+      "category": "Artificial Intelligence",
+      "level": "Advanced",
+      "duration": "5 Weeks",
+      "description": "Build deep learning models using TensorFlow and Keras."
+    }
+  ]
+}

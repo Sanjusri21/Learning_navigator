@@ -1,0 +1,59 @@
+{
+  "programs": [
+    {
+      "title": "Web Development",
+      "subtitle": "Master HTML, CSS, JavaScript, and React",
+      "iconEmoji": "<>",
+      "students": 15420,
+      "duration": "6 months",
+      "skills": 6,
+      "progress": 0.65,
+      "description": "Web Development covers building websites and web applications using HTML, CSS, JavaScript, React, Node.js, and databases.",
+      "whatYouLearn": ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "Databases"]
+    },
+    {
+      "title": "Artificial Intelligence",
+      "subtitle": "Learn AI, Machine Learning, and Deep Learning",
+      "iconEmoji": "🧠",
+      "students": 12850,
+      "duration": "9 months",
+      "skills": 5,
+      "progress": 0.20,
+      "description": "Artificial Intelligence covers machine learning, deep learning, NLP, and AI application development.",
+      "whatYouLearn": ["Python", "ML Algorithms", "Neural Networks", "TensorFlow", "NLP"]
+    },
+    {
+      "title": "Data Science",
+      "subtitle": "Learn Python, statistics and data analysis",
+      "iconEmoji": "📊",
+      "students": 18200,
+      "duration": "7 months",
+      "skills": 6,
+      "progress": 0.30,
+      "description": "Data Science covers Python, statistics, visualization, machine learning, and SQL.",
+      "whatYouLearn": ["Python", "Pandas", "Statistics", "Visualization", "SQL", "ML"]
+    },
+    {
+      "title": "Mobile App Development",
+      "subtitle": "Build Android and iOS apps",
+      "iconEmoji": "📱",
+      "students": 11200,
+      "duration": "7 months",
+      "skills": 5,
+      "progress": 0.45,
+      "description": "Mobile Development covers Flutter, Dart, Firebase, REST APIs, and app deployment.",
+      "whatYouLearn": ["Flutter", "Dart", "Firebase", "REST APIs", "State Management"]
+    },
+    {
+      "title": "Cyber Security",
+      "subtitle": "Protect systems and networks",
+      "iconEmoji": "🛡️",
+      "students": 8900,
+      "duration": "8 months",
+      "skills": 5,
+      "progress": 0.0,
+      "description": "Cyber Security covers networking, ethical hacking, Linux, cryptography, and penetration testing.",
+      "whatYouLearn": ["Networking", "Ethical Hacking", "Linux", "Cryptography", "Pen Testing"]
+    }
+  ]
+}

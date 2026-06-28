@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "title": "Flutter Workshop",
+      "date": "15 July 2026",
+      "time": "10:00 AM – 12:00 PM",
+      "type": "Workshop",
+      "desc": "Hands-on Flutter UI building session for beginners and intermediates.",
+      "videos": ["https://www.youtube.com/watch?v=VPvVD8t02U8"]
+    },
+    {
+      "title": "Cyber Security Session",
+      "date": "18 July 2026",
+      "time": "2:00 PM – 4:00 PM",
+      "type": "Session",
+      "desc": "Learn about ethical hacking, network security, and threat prevention.",
+      "videos": ["https://www.youtube.com/watch?v=U_P23SqJaDc"]
+    },
+    {
+      "title": "AI Career Webinar",
+      "date": "22 July 2026",
+      "time": "6:00 PM – 7:30 PM",
+      "type": "Webinar",
+      "desc": "Industry experts discuss career paths in Artificial Intelligence.",
+      "videos": ["https://www.youtube.com/watch?v=mJeNghZXtMo"]
+    },
+    {
+      "title": "Hackathon 2026",
+      "date": "30 July 2026",
+      "time": "9:00 AM – 9:00 PM",
+      "type": "Hackathon",
+      "desc": "Build a working project in 12 hours and compete for prizes.",
+      "videos": []
+    },
+    {
+      "title": "Data Science Bootcamp",
+      "date": "5 August 2026",
+      "time": "9:00 AM – 5:00 PM",
+      "type": "Bootcamp",
+      "desc": "Full-day intensive bootcamp covering Python, Pandas, and ML basics.",
+      "videos": ["https://www.youtube.com/watch?v=ua-CiDNNj30"]
+    },
+    {
+      "title": "UI/UX Design Summit",
+      "date": "12 August 2026",
+      "time": "11:00 AM – 3:00 PM",
+      "type": "Summit",
+      "desc": "Explore modern design principles, Figma workflows, and user research.",
+      "videos": ["https://www.youtube.com/watch?v=c9Wg6Cb_YlU"]
+    }
+  ]
+}
