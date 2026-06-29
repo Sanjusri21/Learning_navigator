@@ -195,6 +195,11 @@ The latest version of Learning Navigator provides a complete learning ecosystem 
 These features significantly improve the user experience and support the application's goal of delivering a guided, interactive, and organized learning platform.
 
 ---
+# Demo video
+```bash
+https://drive.google.com/file/d/12OQ9hSokrh1e6OabIs8j7J_wVb5dVGN6/view?usp=drive_link
+```
+
 # Testing & Quality Assurance
 ## Functional Testing
 * Verified learning paths and roadmap functionality
